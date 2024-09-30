@@ -3,3 +3,10 @@
 ```
 print("Hello World")
 ```
+#### Shopping List
+- [X] Bananas
+- [ ] Oatmeal
+- [ ] Bread
+- [X] Chocolate
+- [X] Raspberries
+- [ ] Peanut Butter
